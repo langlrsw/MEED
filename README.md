@@ -11,7 +11,7 @@ The code for MEED runs with Python and requires Tensorflow of version 1.2.1 or h
 
 Or you may run the following and in shell to install the required packages:
 ```shell
-git clone https://github.com/anonkdd2020/MEED
+git clone https://github.com/langlrsw/MEED
 cd MEED
 sudo pip install -r requirements.txt
 ```
